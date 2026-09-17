@@ -1,4 +1,5 @@
-package com.example.demo;
+package com.example.demo.modelo;
+
 public class Estudiante {
     private Long id;
     private String nombre;
